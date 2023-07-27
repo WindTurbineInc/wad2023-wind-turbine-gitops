@@ -1,0 +1,6 @@
+dependencies:
+- name: infinispan-infinispan
+  repository: https://charts.openshift.io/
+  version: 0.3.2
+digest: sha256:e7da40e08dc7f0ec3672c490d737789a8e2ce943cb2259f1456a1009e940237a
+generated: "2023-07-13T14:56:00.505020884+02:00"
